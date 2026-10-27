@@ -1,0 +1,7 @@
+path: /home/vatsal/PROGRAMMING/Machine Learning/Drowsiness_Detection/data
+train: images/train
+val: images/val
+
+names:
+  0: awake
+  1: drowsy

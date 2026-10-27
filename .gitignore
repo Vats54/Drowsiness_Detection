@@ -1,0 +1,21 @@
+# Virtual environments & Notebook checkpoints
+shared_env/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+
+# Personal dataset photos & cache files
+data/
+*.cache
+*.zip
+
+# Run checkpoints
+runs/detect/*/train/
+runs/detect/*/val/
+labelImg/
+yolov8n/
+yolov8n-cls/
+yolov8n.pt
+yolov8n-cls.pt
+zidane.jpg
+aerial-view-of-cars-in-traffic.jpg
